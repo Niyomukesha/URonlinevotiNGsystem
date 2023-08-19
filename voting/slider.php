@@ -4,7 +4,6 @@
 	<link rel="stylesheet" type="text/css" href="css/SliderCss.css">
 </head>
 <body>
-
 </body>
 </html>
 <div id="slider">

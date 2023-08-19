@@ -28,7 +28,6 @@
                 <option value = "candidates/ac.php">Academics</option>
                 </select>
             </center>
-
     </heading> 
 </div>
 

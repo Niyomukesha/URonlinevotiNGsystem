@@ -12,7 +12,6 @@ a:hover{
     text-decoration: none;
 }
 
-
 </style>
             <div class="text-center text-success animateuse" style="background-color:rgba(180, 180, 180); font-size:30px;text-align:right; margin-top:-10px; padding-top:20px;">
                 <a style="color:blue; font-weight:bold; font-size:30px;">UR ONLINE VOTING</a>

@@ -17,7 +17,6 @@
 			header('location:vote.php');
 		}
 		
-
 		if($voted == 1){
 			?>
 			<script type="text/javascript">

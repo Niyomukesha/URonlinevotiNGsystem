@@ -28,3 +28,4 @@
         $('#dataTables-example').dataTable();
     });
     </script>
+
