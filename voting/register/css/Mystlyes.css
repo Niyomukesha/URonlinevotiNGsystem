@@ -1,14 +1,14 @@
 body{
 	background-color: white;
 }
-.page-head{
+/* .page-head{
 
-}
+} */
 
 
-form{
+/* form{
 	background-color: ;
-}
+} */
 .link{
 	font-style: italic;
 }
@@ -16,7 +16,7 @@ form{
 	color: green;
 }
 .form-panel{
-	background-color:;
+	/* background-color:; */
 	width: 350px;
 	margin-left:auto;
 	margin-right: auto; 
@@ -34,8 +34,8 @@ form{
 	padding-bottom: 10px;
 
 }
-.form-field{
-}
+/* .form-field{
+} */
 label{
 	color: green;
 	font-style: italic;
@@ -43,7 +43,7 @@ label{
 }
 button{
 	font-size: larger;
-	background-color: ;
+	/* background-color: ; */
 	cursor: pointer;
 	height: 40px;
 	border-style: solid;

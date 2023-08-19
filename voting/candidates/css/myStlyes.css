@@ -3,8 +3,8 @@ body{
 	background-color: white;
 	background-size: 100%;
 }
-.page-head{
-}
+/* .page-head{
+} */
 #wrapper{
 	padding-bottom:20px; 
 }
@@ -21,12 +21,12 @@ body{
 
 }
 .form-panel{
-	background-image:;
+	/* background-image:; */
 	width: 350px;
 	margin-left:auto;
 	margin-right: auto; 
 	border-radius: 10px;
-	padding-right:;
+	/* padding-right:; */
 }
 .form-heading{
 	font-weight: bold;

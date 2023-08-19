@@ -6,7 +6,6 @@
     	<?php    
         include ('index_banner.php');
         ?>
-        
         <div id="page-wrapper">
             <div class="row">
 			

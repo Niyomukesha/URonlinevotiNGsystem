@@ -1,6 +1,5 @@
 <?php 
-    require 'dbcon.php';
-								
+    require 'dbcon.php';	
 		if (isset($_POST['save'])){
 			$firstname=$_POST['firstname'];
 			$lastname=$_POST['lastname'];

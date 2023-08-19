@@ -14,8 +14,7 @@
     
 <heading class="voters_heading">
         
-<center><h1>Registered Entertainment Advisor Candidates</h1>
-           
+<center><h1>Registered Entertainment Advisor Candidates</h1>        
 <center>
                
 <select onchange = "page(this.value)">

@@ -23,9 +23,7 @@
 </h4>
 									
 </div>
-										
-										
-                                     
+								                                
 <div class="modal-body">
 										
 <form method = "post" enctype = "multipart/form-data">	

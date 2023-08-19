@@ -2,7 +2,6 @@
 <?php include ('head.php');?>
 
 <body>
-
     <div id="wrapper">
 
               <?php include ('view_banner.php');?>

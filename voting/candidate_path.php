@@ -14,8 +14,7 @@
 
  <heading class="menue-select">
         
- <center>
-            
+ <center>     
  <select onchange = "page(this.value)">
           
          
